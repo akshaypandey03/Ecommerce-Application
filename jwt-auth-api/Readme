@@ -1,0 +1,11 @@
+express: For building the server.
+
+mongoose: For MongoDB interaction.
+
+bcryptjs: For hashing passwords.
+
+jsonwebtoken: For generating and verifying JWTs.
+
+dotenv: For managing environment variables.
+
+cors: For enabling Cross-Origin Resource Sharing.
